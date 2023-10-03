@@ -1,0 +1,21 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Douglas" 3 times.(÷´‚ôúÿÿÿÿ8˜¼‰™­1
+G	java:S106"+Replace this use of System.out by a logger.(©İŒô8Æ¼‰™­1
+L	java:S106"+Replace this use of System.out by a logger.(ø¼ˆ¬üÿÿÿÿ8É¼‰™­1
+L	java:S106"+Replace this use of System.out by a logger.(¬Û·½üÿÿÿÿ8Ê¼‰™­1
+L	java:S106"+Replace this use of System.out by a logger.(ŒÏ†¬şÿÿÿÿ8Ì¼‰™­1
+7
+java:S2275"Not enough arguments.(ŒÏ†¬şÿÿÿÿ8Í¼‰™­1
+G	java:S106"+Replace this use of System.out by a logger.(ö¡¹ê8Ï¼‰™­1
+G	java:S106"+Replace this use of System.out by a logger.(´›ş8Ñ¼‰™­1
+F
+java:S1172")Remove this unused method parameter "id".(ÿàŠß8é¼‰™­1
+G	java:S106"+Replace this use of System.out by a logger.(üèïª8ë¼‰™­1
+2
+java:S2275"Not enough arguments.(üèïª8ì¼‰™­1
+Q
+java:S1172!"/Remove this unused method parameter "username".(ç‡®”ÿÿÿÿÿ8í¼‰™­1
+G	java:S106""+Replace this use of System.out by a logger.(ş½ˆó8î¼‰™­1
+2
+java:S2275""Not enough arguments.(ş½ˆó8ï¼‰™­1
