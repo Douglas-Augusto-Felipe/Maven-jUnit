@@ -10,7 +10,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        // Singleton
+        //Testes relacionados ao Desingn Pattern Singleton
 
         SingletonLazy lazy = SingletonLazy.getInstancia();
         System.out.println(lazy);
